@@ -1,0 +1,10 @@
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.Form1.resources
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.Properties.Resources.resources
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.GenerateResource.cache
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Ritual\source\repos\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
